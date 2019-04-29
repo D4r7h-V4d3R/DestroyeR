@@ -1,6 +1,6 @@
 #DestoyeR v1.0 (Open The Gates)
 
-destroyer is a multi-purpose software
+Destroyer is a multi-purpose pentest software
 
     
                       ...:::::::::...		
@@ -26,24 +26,25 @@ destroyer is a multi-purpose software
    	                     ::::::::: 
 
 
-Dowload 
+=============================[+]DOWNLOAD[+]==================================
 
-     git clone https://github.com/
+     git clone https://github.com/D4r7h-V4d3R/DestroyeR.git
     
-Setup
+===============================[+]Setup[+]===================================
 
 ```bash
 pip install -r requirements.txt`
 ```
 
-Usage 
+===============================[+]Usage[+]====================================
 
 ```bash
 ~$ cd DestroyeR
 ~# python DestroyeR.py
 ```
 
-Credits
+===============================[+]Credits=====================================
+
                                                        Author= {D4r7h V4d3R}
 
                                                       .:\--Special Thanks--/:.
