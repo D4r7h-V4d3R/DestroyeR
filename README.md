@@ -1,6 +1,6 @@
 #DestoyeR v1.0 (Open The Gates)
 
-Destroyer is a multi-purpose pentest software
+destroyer is a multi-purpose software .Please before open a console and ;click <Edit> after click <Profile Preferences> <Colors> and finally click colors menu choice <Rxvt>
 
     
                       ...:::::::::...		
@@ -26,25 +26,24 @@ Destroyer is a multi-purpose pentest software
    	                     ::::::::: 
 
 
-=============================[+]DOWNLOAD[+]==================================
+Dowload 
 
-     git clone https://github.com/D4r7h-V4d3R/DestroyeR.git
+     git clone https://github.com/
     
-===============================[+]Setup[+]===================================
+Setup
 
 ```bash
 pip install -r requirements.txt`
 ```
 
-===============================[+]Usage[+]====================================
+Usage 
 
 ```bash
 ~$ cd DestroyeR
 ~# python DestroyeR.py
 ```
 
-===============================[+]Credits=====================================
-
+Credits
                                                        Author= {D4r7h V4d3R}
 
                                                       .:\--Special Thanks--/:.
@@ -56,3 +55,4 @@ pip install -r requirements.txt`
                                                      [HD Moore and Rapid7 Team]
                                                                                                          
                                                           [Github Family]
+
